@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarGorlova&show_icons=true&count_private=true&bg_color=DEG,9593D9,006C67&title_color=D1F0D2&icon_color=D1F0D2&text_color=E5BEED)
+
 <!--
 **MarGorlova/MarGorlova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
