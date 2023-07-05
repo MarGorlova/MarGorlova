@@ -1,6 +1,41 @@
+<style>
+.spoiler input, .spoiler div {
+    display:none;
+}
+.spoiler :checked ~ div {
+    display:block;
+}
+</style>
 [![keyboard image](https://github.com/MarGorlova/MarGorlova/blob/main/assets/images/keyboard%206000-1200.jpg "Photo by Vandan Patel on unsplash.com")](#)
 
 ### About me 👋
+
+### Certificates
+<ul style="list-style-type:none;">
+    <li> <a href="http://scr.istqb.org/"> ISTQB (external link)</a></li>
+    <li> 
+        <details>
+        <summary>EF SET</summary>
+        <p>secret</p>
+        </details>
+    </li>
+    <li>  
+        <div class="spoiler">
+            <input type="checkbox" id="certificate1">
+            <label for="certificate1">HTML CSS JS</label>
+            <div>secret</div>
+        </div>
+    </li>
+    <li> 
+        <div class="spoiler">
+            <input type="checkbox" id="certificate2">
+            <label for="certificate2">Тестирование ПО: Postman для тестирования API</label>
+            <div>secret</div>
+        </div>
+    </li>
+    <li> Jira: ведение задач на электронных досках</li>
+    <li> JavaScript для начинающих</li>
+</ul>
 
 ### Languages and tools
 [![HTML](https://img.shields.io/badge/-HTML-E5BEED?style=for-the-badge&logo=html5)](#)
