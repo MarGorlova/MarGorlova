@@ -3,31 +3,35 @@
 ### About me 👋
 
 ### Certificates
-<iframe src="https://www.google.com/" height="500px" width="500px"></iframe>
-<ul>
-    <li> <a href="http://scr.istqb.org/"> ISTQB (external link)</a></li>
-    <li> 
-        <details>
-        <summary>EF SET</summary>
-        <iframe src="https://www.google.com/" height="500px" width="500px"></iframe>
-        </details>
-    </li>
-    <li>  
-        <details>
-        <summary>HTML CSS JS</summary>
-        <iframe src="https://www.google.com/" height="50px" width="50px"></iframe>
-        </details>
-    </li>
-    <li> 
-        <div class="spoiler">
-            <input type="checkbox" id="certificate2">
-            <label for="certificate2">Тестирование ПО: Postman для тестирования API</label>
-            <div>secret</div>
-        </div>
-    </li>
-    <li> Jira: ведение задач на электронных досках</li>
-    <li> JavaScript для начинающих</li>
-</ul>
+<details>
+    <summary>ISTQB, Certified Tester Foundation Level, 2023</summary>
+    <p>Check on <a href="http://scr.istqb.org/" target="_blank">Successful Candidate Register</a></p>
+</details>
+<details>
+    <summary>English language: EF Education First, EF SET Certificate, 2023</summary>
+    <p>Open PDF: <a href="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/EF%20SET%20Certificate.pdf" target="_blank">EF SET Certificate</a></p>
+    <img src="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/images/EF%20SET%20Certificate.png">
+</details>
+<details>
+    <summary>Stepik.org, "HTML CSS JS", 2023</summary>
+    <p>Open PDF on <a href="https://stepik.org/certificate/bec0f9580bcc07dcbdb355de35adb2f378c2c98e.pdf" target="_blank">stepik.org</a></p>
+    <img src="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/images/stepik-certificate-html-css.png">
+</details>
+<details>
+    <summary>Stepik.org, "Тестирование ПО: Postman для тестирования API", 2023</summary>
+    <p>Open PDF on <a href="https://stepik.org/certificate/de9ee1f20168884b447c6a60e6bb0694fa51e15d.pdf" target="_blank">stepik.org</a></p>
+    <img src="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/images/stepik-certificate-postman.png">
+</details>
+<details>
+    <summary>Stepik.org, "Jira: ведение задач на электронных досках", 2023</summary>
+    <p>Open PDF on <a href="https://stepik.org/certificate/dca4a40bdd4cacbcf2b562d3b1c9a5d12f4f0137.pdf" target="_blank">stepik.org</a></p>
+    <img src="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/images/stepik-certificate-jira.png">
+</details>
+<details>
+    <summary>Stepik.org, "JavaScript для начинающих", 2023</summary>
+    <p>Open PDF on <a href="https://stepik.org/certificate/81d6921b16b142664f551a07a4489a40363f267a.pdf" target="_blank">stepik.org</a></p>
+    <img src="https://github.com/MarGorlova/MarGorlova/blob/main/assets/certificates/images/stepik-certificate-js.png">
+</details>
 
 ### Languages and tools
 [![HTML](https://img.shields.io/badge/-HTML-E5BEED?style=for-the-badge&logo=html5)](#)
