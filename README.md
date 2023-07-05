@@ -1,6 +1,12 @@
 [![keyboard image](https://github.com/MarGorlova/MarGorlova/blob/main/assets/images/keyboard%206000-1200.jpg "Photo by Vandan Patel on unsplash.com")](#)
 
-### About me 👋
+## About me 👋
+Hello, I am currently self-studying to be a QA engineer. Here I will post links to my works, certificates and CV.
+
+### Table of content
++ [Certificates](https://github.com/MarGorlova#certificates)
++ [Languages and tools](https://github.com/MarGorlova#languages-and-tools)
++ [GitHub stats](https://github.com/MarGorlova#github-stats-)
 
 ### Certificates
 <details>
