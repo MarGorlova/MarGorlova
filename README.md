@@ -1,4 +1,4 @@
-![keyboard image](https://github.com/MarGorlova/MarGorlova/assets/keyboard_6000-1200.jpg "From unsplash")
+![keyboard image](https://github.com/MarGorlova/MarGorlova/blob/main/assets/keyboard%206000-1200.jpg "Photo by <a href="https://unsplash.com/@vandanpatel_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vandan Patel</a> on <a href="https://unsplash.com/wallpapers/desktop/laptop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>")
 
 ### About me 👋
 
