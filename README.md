@@ -3,6 +3,7 @@
 ### About me 👋
 
 ### Certificates
+<iframe src="https://www.google.com/" height="500px" width="500px"></iframe>
 <ul>
     <li> <a href="http://scr.istqb.org/"> ISTQB (external link)</a></li>
     <li> 
@@ -12,11 +13,10 @@
         </details>
     </li>
     <li>  
-        <div class="spoiler">
-            <input type="checkbox" id="certificate1">
-            <label for="certificate1">HTML CSS JS</label>
-            <div>secret</div>
-        </div>
+        <details>
+        <summary>HTML CSS JS</summary>
+        <iframe src="https://www.google.com/" height="50px" width="50px"></iframe>
+        </details>
     </li>
     <li> 
         <div class="spoiler">
