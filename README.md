@@ -1,3 +1,5 @@
+![keyboard image](https://github.com/MarGorlova/MarGorlova/assets/keyboard_6000-1200.jpg "From unsplash")
+
 ### About me 👋
 
 ### Languages and tools
@@ -8,5 +10,5 @@
 [![Postman](https://img.shields.io/badge/-postman-E5BEED?style=for-the-badge&logo=postman)](#)
 
 ### GitHub stats ✨
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarGorlova&show_icons=true&count_private=true&bg_color=DEG,9593D9,006C67&title_color=D1F0D2&icon_color=D1F0D2&text_color=E5BEED)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarGorlova&show_icons=true&count_private=true&bg_color=DEG,9593D9,006C67&title_color=D1F0D2&icon_color=D1F0D2&text_color=E5BEED&hide=contribs)
 
