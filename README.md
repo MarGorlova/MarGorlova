@@ -1,22 +1,14 @@
-<style>
-.spoiler input, .spoiler div {
-    display:none;
-}
-.spoiler :checked ~ div {
-    display:block;
-}
-</style>
 [![keyboard image](https://github.com/MarGorlova/MarGorlova/blob/main/assets/images/keyboard%206000-1200.jpg "Photo by Vandan Patel on unsplash.com")](#)
 
 ### About me 👋
 
 ### Certificates
-<ul style="list-style-type:none;">
+<ul>
     <li> <a href="http://scr.istqb.org/"> ISTQB (external link)</a></li>
     <li> 
         <details>
         <summary>EF SET</summary>
-        <p>secret</p>
+        <iframe src="https://www.google.com/" height="500px" width="500px"></iframe>
         </details>
     </li>
     <li>  
